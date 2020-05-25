@@ -19,8 +19,7 @@ layout: page
 
 <p> The above doesn't include the design briefs, PRD's, Sales and basic marketing skills I can comfortably handle </p>
 
-<div class="row">
-    <div class="col-md-6">
+
 		<h2>Upskilling</h2>
 		<ul class="skill-list">
 		<li> MySQL </li>
@@ -30,9 +29,8 @@ layout: page
 		<li> Photoshop </li>
 		<li> Machine learning </li>
 		<li> Video editing </li>
-</div>
 
-	<div class="col-md-6">
+
 	<h2>Upskilling2</h2>
 	<ul class="skill-list">
 		<li> MySQL </li>
@@ -42,5 +40,3 @@ layout: page
 		<li> Photoshop </li>
 		<li> Machine learning </li>
 		<li> Video editing </li>
-	</div>
-</div>
