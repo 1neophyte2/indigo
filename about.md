@@ -19,12 +19,12 @@ layout: page
 
 <h2>Upskilling</h2>
 
-	<ul class="skill-list">
-		<li> MySQL </li>
-		<li> Understanding data </li>
-		<li> MongoDB </li>
-		<li> Python </li>
-		<li> Photoshop </li>
-		<li> Machine learning </li>
-		<li> Video editing </li>
+<ul class="skill-list">
+	<li> MySQL </li>
+	<li> Understanding data </li>
+	<li> MongoDB </li>
+	<li> Python </li>
+	<li> Photoshop </li>
+	<li> Machine learning </li>
+	<li> Video editing </li>
  </ul>
