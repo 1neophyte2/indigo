@@ -21,14 +21,6 @@ layout: page
 
 <div class="row">
     <div class="col-md-6">
-        {{ include-code-blocks }}
-    </div>
-    <div class="col-md-6">
-        {{ include-texts }}
-        {{ include-headers }}
-        {{ include-what-you-want }}
-    </div>
-</div>
 
 <h2>Upskilling</h2>
 
@@ -40,3 +32,17 @@ layout: page
 	<li> Photoshop </li>
 	<li> Machine learning </li>
 	<li> Video editing </li>
+</div>
+	<div class="col-md-6">
+	<h2>Upskilling2</h2>
+
+	<ul class="skill-list">
+		<li> MySQL </li>
+		<li> Understanding data </li>
+		<li> MongoDB </li>
+		<li> Python </li>
+		<li> Photoshop </li>
+		<li> Machine learning </li>
+		<li> Video editing </li>
+	</div>
+</div>

@@ -113,6 +113,11 @@ defaults:
       # can be overridden in the front matter for a specific post
       hidden: false
 
+# Apply this change to _config.yml file
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
