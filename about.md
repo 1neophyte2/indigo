@@ -19,6 +19,17 @@ layout: page
 
 <p> The above doesn't include the design briefs, PRD's, Sales and basic marketing skills I can comfortably handle </p>
 
+<div class="row">
+    <div class="col-md-6">
+        {{ include-code-blocks }}
+    </div>
+    <div class="col-md-6">
+        {{ include-texts }}
+        {{ include-headers }}
+        {{ include-what-you-want }}
+    </div>
+</div>
+
 <h2>Upskilling</h2>
 
 <ul class="skill-list">
