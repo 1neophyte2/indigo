@@ -21,21 +21,19 @@ layout: page
 
 <div class="row">
     <div class="col-md-6">
-
-<h2>Upskilling</h2>
-
-<ul class="skill-list">
-	<li> MySQL </li>
-	<li> Understanding data </li>
-	<li> MongoDB </li>
-	<li> Python </li>
-	<li> Photoshop </li>
-	<li> Machine learning </li>
-	<li> Video editing </li>
+		<h2>Upskilling</h2>
+		<ul class="skill-list">
+		<li> MySQL </li>
+		<li> Understanding data </li>
+		<li> MongoDB </li>
+		<li> Python </li>
+		<li> Photoshop </li>
+		<li> Machine learning </li>
+		<li> Video editing </li>
 </div>
+
 	<div class="col-md-6">
 	<h2>Upskilling2</h2>
-
 	<ul class="skill-list">
 		<li> MySQL </li>
 		<li> Understanding data </li>
