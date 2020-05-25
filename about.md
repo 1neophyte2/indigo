@@ -22,8 +22,8 @@ layout: page
 
 <h2>Upskilling</h2>
 
-		<ul class="skill-list">
-		
+	<ul class="skill-list">
+
 		<li> MySQL </li>
 		<li> Understanding data </li>
 		<li> MongoDB </li>
