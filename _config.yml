@@ -1,9 +1,9 @@
 # main text of home
 name: Anirudh Tulasiram
-bio: Finding the ultimate truth 
+bio: Expressing my curiosity and inquistiveness
 
 # twitter summary info
-description: A blog about technology and stuff related
+description:
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: false
+resume-external: false
+
 
 url: https://1neophyte2.github.io/indigo/
 # your url: https://USERNAME.github.io
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/anifooty
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -55,13 +55,13 @@ email: myemail@gmail.com
 authors:
   johndoe:
     name: Anirudh Tulasiram
-    bio: 
+    bio:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
     name: Anirudh Tulasiram
-    bio: 
+    bio:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
@@ -69,14 +69,14 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
   enabled: false
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
+  per_page: 15
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
