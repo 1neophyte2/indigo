@@ -20,3 +20,25 @@ I have been a considerable fitness, health and nutrition enthusiast. I am more o
 Since the lockdown, various fitness apps have helped me plan a workout daily. I have particularly liked Nike Training Club app over the others. Their plans integrate a running module in addition to strength and conditioning. I have used it several times in the past but have never paid attention to several aspects of the app.
 
 Not this time, I took time and tried understanding different elements of the app as a user. Below is my understanding, observation and thoughts of Nike Training Club mobile app.
+
+**Note: the mobile app that I have used is on the iOS platform; it could be different on Android.**
+
+Nike Training Club (NTC) helps individuals to work out
+
+•	at any place
+•	without any cost
+•	tailoring to individuals needs
+
+Below is an Index that I have covered in this document
+
+Index
+
+1.	Background
+2.	Registration
+3.	Onboarding
+4.	Experience
+  - Workouts
+  - Feed
+  - Activity
+  - Inbox 
+5.	Overall
