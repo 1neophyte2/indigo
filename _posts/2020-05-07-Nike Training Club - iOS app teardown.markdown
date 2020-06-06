@@ -1,16 +1,16 @@
 ---
-title: "Nike Training Club – analysis"
+title: "Nike Training Club – Analysis"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2020-05-08 22:44
+image: https://lh3.googleusercontent.com/IMzVrzuUHqW1kNc-PXmQpbJ7YvVnh-T_rsLN-ICt-e35DwZzPkGJHU1gpmG8F6yViA=s360-rw
+headerImage: true
 tag:
-- markdown
-- elements
+- App analysis
+
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: Anirudh
+description: 
 ---
 
 ## Nike Training Club – analysis
@@ -40,5 +40,5 @@ Index
   - Workouts
   - Feed
   - Activity
-  - Inbox 
+  - Inbox
 5.	Overall
