@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: Anirudh
-description: 
+description:
 ---
 
 ## Nike Training Club – analysis
@@ -25,13 +25,13 @@ Not this time, I took time and tried understanding different elements of the app
 
 Nike Training Club (NTC) helps individuals to work out
 
-•	at any place
-•	without any cost
-•	tailoring to individuals needs
+- at any place
+- without any cost
+- tailoring to individuals needs
 
-Below is an Index that I have covered in this document
+Below are the topics that I have covered in this analysis
 
-Index
+**Index**
 
 1.	Background
 2.	Registration
@@ -42,3 +42,20 @@ Index
   - Activity
   - Inbox
 5.	Overall
+
+
+##### 1.	Nike Training Club (NTC) - Background ####
+
+Nike has been pushing boundaries in health-tech for some time now. I remember their early Nike+ Sports band kit (2008), Nike+ fuel bands (2013) that promised individuals of an active lifestyle. They were the pioneers in bringing this new accessible tech to consumers.
+Nike Training Club (NTC). Over the years, most health tech companies have offered their product as a mobile-only.
+
+#### 2.	Registration ####
+
+Nike has always been community-centric when it comes to their product launches, and it reflects in the language they have used throughout NTC. When you open the app for a new user, the screen mentions ‘Join’ instead of ‘Sign-up or Register’.
+
+Once the individual registers, it asks a few questions to personalize the experience. At this stage, I found a few interesting things
+
+- I didn’t get any email from NTC about the app to the registered email address
+- In the registration page though, it says sign-in instead of login. Whoopsies.
+- If you look closely, you cannot skip the onboarding process
+- It doesn’t distract the user from uploading a display picture at this stage
