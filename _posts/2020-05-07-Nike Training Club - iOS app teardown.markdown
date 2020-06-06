@@ -1,5 +1,19 @@
+---
+title: "Nike Training Club – analysis"
+layout: post
+date: 2016-02-24 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: johndoe
+description: Markdown summary with different options
+---
 
-Nike Training Club – analysis
+## Nike Training Club – analysis
 
 I have been a considerable fitness, health and nutrition enthusiast. I am more of a ‘why’ person, and that helps me to be inquisitive. Over the years, I have joined various fitness classes like gym, strength and conditioning, functional fitness and CrossFit. I used to cycle and occasionally run to my previous workplace. Being a curious person helps me to think, question and analyze many things from signboards on the highway, aisles arrangement in supermarkets, mobile apps and much more.
 
