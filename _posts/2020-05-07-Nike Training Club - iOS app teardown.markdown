@@ -1,7 +1,7 @@
 ---
 title: "Nike Training Club – Analysis"
 layout: post
-date: 2020-05-08 22:44
+date: 2020-06-08 22:44
 image: https://lh3.googleusercontent.com/IMzVrzuUHqW1kNc-PXmQpbJ7YvVnh-T_rsLN-ICt-e35DwZzPkGJHU1gpmG8F6yViA=s360-rw
 headerImage: true
 tag:
@@ -59,3 +59,5 @@ Once the individual registers, it asks a few questions to personalize the experi
 - In the registration page though, it says sign-in instead of login. Whoopsies.
 - If you look closely, you cannot skip the onboarding process
 - It doesn’t distract the user from uploading a display picture at this stage
+
+!
