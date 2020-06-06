@@ -8,7 +8,7 @@ layout: page
 
 <p>This blog is a reflection of my thoughts, opinions and suggestions around products, technology, movies, Tv shows and books.</p>
 
-<p> I am a non-techy, so hosting and sharing this blog is a tiny win for me. </p>
+<p> I am a non-techy,so hosting and sharing this blog is a tiny win for me. </p>
 
 <h2>learning</h2>
 
