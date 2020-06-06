@@ -44,7 +44,7 @@ Below are the topics that I have covered in this analysis
 5.	Overall
 
 
-##### 1.	Nike Training Club (NTC) - Background ####
+#### 1.	Nike Training Club (NTC) - Background ####
 
 Nike has been pushing boundaries in health-tech for some time now. I remember their early Nike+ Sports band kit (2008), Nike+ fuel bands (2013) that promised individuals of an active lifestyle. They were the pioneers in bringing this new accessible tech to consumers.
 Nike Training Club (NTC). Over the years, most health tech companies have offered their product as a mobile-only.
