@@ -64,4 +64,4 @@ Once the individual registers, it asks a few questions to personalize the experi
 
 ![qwe-29](/Users/anirudh/github/indigo/assets/screen-shot.png)
 
-hello
+![qwer1223](/Users/anirudh/github/indigo/_posts/Picture1.jpg)
