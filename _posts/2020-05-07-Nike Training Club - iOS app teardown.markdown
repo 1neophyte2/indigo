@@ -60,4 +60,4 @@ Once the individual registers, it asks a few questions to personalize the experi
 - If you look closely, you cannot skip the onboarding process
 - It doesn’t distract the user from uploading a display picture at this stage
 
-![headerImage](assets/NTC blog /Picture1.png)
+![headerImage](assets/NTC blog/Picture1.png)
