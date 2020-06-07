@@ -66,5 +66,37 @@ Once the individual registers, it asks a few questions to personalize the experi
 
 When you click on ‘Get Started’ button, it asks two questions
 
-•	gender
-•	and current active schedule
+- gender
+- and current active schedule
+
+Observations
+
+- The individual has to choose one of two genders mentioned, and there is no option of ‘other’ or ‘don’t want to disclose’
+- I like how they have shown ‘Female’ ‘Male’ arrangement on the screen.
+- The onboarding screen specifies the number of filters (1/2 and 2/2) a user has before she/he discovers or engages with the core functionality.
+
+NTC doesn’t ask the individual about her/his goal. It only asks individuals current active schedule and recommends the workout.  
+
+<img src="../assets/images/images(NTC)/Picture2.png" width="80%" align="center">
+
+After choosing the gender and current active schedule, below are the two screens the individual sees.
+
+- Achievement locker - virtual badges that one can earn (gamification element) and
+- Language - surprisingly, NTC asks to select the language.
+
+<img src="../assets/images/images(NTC)/Picture3.png" width="80%" align="center">
+
+
+#### 4.	Experience – core functionality ####
+
+
+**a.	Workouts**
+
+Once you click on ‘Okay’, NTC recommends a personalized workout.
+
+Observations
+
+- NTC directly takes you to the workouts section in the app (check the app footer)
+- It still doesn’t ask you to upload a display picture
+- It allows you to discover different types of workout in the ‘Top Picks for You’ section
+- When you scroll horizontally, It enables you to find new workouts
