@@ -63,3 +63,5 @@ Once the individual registers, it asks a few questions to personalize the experi
 ![qwe](https://media.giphy.com/media/dieGgjBPDS9jy/giphy.gif)
 
 ![qwe-29](https://github.com/1neophyte2/indigo/blob/gh-pages/assets/images/images(NTC)/Picture1.jpg?raw=true)
+<img src="../assets/images/images(NTC)/Picture1.jpg" width="80%" align="center">
+![ntc-screenshot-rel](../assets/images/images(NTC)/Picture1.jpg)
