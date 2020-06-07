@@ -62,6 +62,4 @@ Once the individual registers, it asks a few questions to personalize the experi
 
 ![qwe](https://media.giphy.com/media/dieGgjBPDS9jy/giphy.gif)
 
-![qwe-29](https://github.com/1neophyte2/indigo/assets/screen-shot.png)
-
-![qwer1223](https://github.com/1neophyte2/indigo/_posts/pictures/Picture1.jpg)
+![qwe-29](https://github.com/1neophyte2/indigo/blob/gh-pages/assets/images/images(NTC)/Picture1.jpg?raw=true)
