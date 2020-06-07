@@ -63,3 +63,8 @@ Once the individual registers, it asks a few questions to personalize the experi
 <img src="../assets/images/images(NTC)/Picture1.jpg" width="80%" align="center">
 
 #### 3. Onboarding ####
+
+When you click on ‘Get Started’ button, it asks two questions
+
+•	gender
+•	and current active schedule
