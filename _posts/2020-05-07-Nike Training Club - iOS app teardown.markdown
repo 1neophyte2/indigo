@@ -62,6 +62,6 @@ Once the individual registers, it asks a few questions to personalize the experi
 
 ![qwe](https://media.giphy.com/media/dieGgjBPDS9jy/giphy.gif)
 
-![qwe-2](/Users/anirudh/github/indigo/assets/screen-shot.png)
+![qwe-29](/Users/anirudh/github/indigo/assets/screen-shot.png)
 
 hello
