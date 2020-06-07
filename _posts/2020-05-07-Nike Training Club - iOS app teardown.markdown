@@ -61,3 +61,5 @@ Once the individual registers, it asks a few questions to personalize the experi
 - It doesn’t distract the user from uploading a display picture at this stage
 
 ![qwe](/Users/anirudh/github/indigo/assets/images/images(NTC)/Picture1.jpg)
+
+hello
