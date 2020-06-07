@@ -59,3 +59,5 @@ Once the individual registers, it asks a few questions to personalize the experi
 - In the registration page though, it says sign-in instead of login. Whoopsies.
 - If you look closely, you cannot skip the onboarding process
 - It doesn’t distract the user from uploading a display picture at this stage
+
+![qwe](/Users/anirudh/github/indigo/assets/images/images(NTC)/Picture1.jpg)
