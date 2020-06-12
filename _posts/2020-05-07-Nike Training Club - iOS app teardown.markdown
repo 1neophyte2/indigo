@@ -79,6 +79,7 @@ NTC doesn’t ask the individual about her/his goal. It only asks individuals cu
 
 <img src="../assets/images/images(NTC)/Picture2.png" width="80%" align="center">
 
+</p>
 After choosing the gender and current active schedule, below are the two screens the individual sees.
 
 - Achievement locker - virtual badges that one can earn (gamification element) and
@@ -101,8 +102,9 @@ __Observations__
 - It allows you to discover different types of workout in the ‘Top Picks for You’ section
 - When you scroll horizontally, It enables you to find new workouts
 
-
 <img src="../assets/images/images(NTC)/Picture4.png">
+
+</p>
 
 When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
 
@@ -117,8 +119,9 @@ __Observations__
 - NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
 
 <img src="../assets/images/images(NTC)/Picture5.png">
-
+</p>
 When you click on collections, you will find more workouts grouped in different catalogues.
+</p>
 
 **b.	Feed**
 
@@ -131,13 +134,15 @@ The feed persuades the user to be active and highlights’ workout of the week�
 
 When you enter the exercise, it re-informs the length, the level of intensity and the level of workout. It also gives a set of options for the user to set from displaying the exercise on a different screen via Airplay, audio preference and music source.
 
-__Observation__
+__Observations__
 - As I mentioned, the NTC is all about the community. It allows the individual to share the workout (invite) to their friend by clicking the share button in several places.
 - It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
 - NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
 <img src="../assets/images/images(NTC)/picture6a.png">
 <img src="../assets/images/images(NTC)/picture6b.png">
+
+</p>
 
 **c.	Activity** 	
 
@@ -146,6 +151,8 @@ The core value NTC wants its users to engage is to discover more workouts and be
 When you click on the achievement section, you see the badges you have earned on NTC.
 
 <img src="../assets/images/images(NTC)/picture7.png" width="80%" align="center">
+
+</p>
 
 **d.	Inbox**
 
@@ -161,7 +168,7 @@ If you look closely, NTC doesn’t give users the option of using the app throug
 
 NTC helps individuals to start working out and doesn’t allow them to be distracted. Even after I used the app, clicked a lot of menus, icons, etc., the app doesn’t nudge me to upload my display picture, which is excellent. I haven’t been bombarded with emails from NTC too.
 
-###Learnings###
+### Learnings ###
 
 - Keeping consistency in CTA's on all forms of registration page
 - Ensuring (if required) the language selection happens at the beginning of the user journey. Will allow user to switch language in the mobile app.
