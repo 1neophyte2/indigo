@@ -116,7 +116,7 @@ Observations
 - The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
 - NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
 
-<img src="../assets/images/images(NTC)/Picture5" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture5.png">
 
 When you click on collections, you will find more workouts grouped in different catalogues.
 
@@ -136,8 +136,8 @@ Observation
 - It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
 - NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
-<img src="../assets/images/images(NTC)/Picture6a" width="80%" align="center">
-<img src="../assets/images/images(NTC)/Picture6b" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture6a.png">
+<img src="../assets/images/images(NTC)/Picture6b.png">
 
 **c.	Activity** 	
 
@@ -151,7 +151,7 @@ When you click on the achievement section, you see the badges you have earned on
 
 This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get is them to pursue personal progress and don’t think about goals. So they are emphasizing on the process and not the result. This mindset is the holy grail of excellence in any field.
 
-<img src="../assets/images/images(NTC)/Picture8" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture8.png">
 
 #### 5.	OVERALL ####
 
