@@ -102,19 +102,19 @@ Observations
 - When you scroll horizontally, It enables you to find new workouts
 
 
-<img src="../assets/images/images(NTC)/Picture4.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture 4.png" width="80%" align="center">
 
 When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
 
-•	Muscle group
-•	Workout type
-•	Equipment
+- Muscle group
+- Workout type
+- Equipment
 
 Scrolling further below, gives you more options based on time and athlete-specific.
 
 Observations
-•	The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
-•	NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
+- The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
+- NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
 
 <img src="../assets/images/images(NTC)/Picture5.png" width="80%" align="center">
 
@@ -125,16 +125,16 @@ b.	Feed
 When you on click feed, it helps you connect with people you might know on NTC platform. NTC asks your permission to access contacts to connect you with your friends.
 
 Observation
-•	NTC doesn’t ask you a bunch of permissions at the start of the customer journey. It is an excellent way to educate the user about the consent necessary for enhancing a particular feature.
+- NTC doesn’t ask you a bunch of permissions at the start of the customer journey. It is an excellent way to educate the user about the consent necessary for enhancing a particular feature.
 
 The feed persuades the user to be active and highlights’ workout of the week’. If you scroll down, it informs the duration and demystifies a popular belief of a workout.
 
 When you enter the exercise, it re-informs the length, the level of intensity and the level of workout. It also gives a set of options for the user to set from displaying the exercise on a different screen via Airplay, audio preference and music source.
 
 Observation
-•	As I mentioned, the NTC is all about the community. It allows the individual to share the workout (invite) to their friend by clicking the share button in several places.
-•	It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
-•	NTC would also like to measure the likeness from the user for a particular workout by the heart icon
+- As I mentioned, the NTC is all about the community. It allows the individual to share the workout (invite) to their friend by clicking the share button in several places.
+- It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
+- NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
 <img src="../assets/images/images(NTC)/Picture6a.png" width="80%" align="center">
 <img src="../assets/images/images(NTC)/Picture6b.png" width="80%" align="center">
