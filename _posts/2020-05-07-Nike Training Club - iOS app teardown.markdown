@@ -100,3 +100,67 @@ Observations
 - It still doesn’t ask you to upload a display picture
 - It allows you to discover different types of workout in the ‘Top Picks for You’ section
 - When you scroll horizontally, It enables you to find new workouts
+
+
+<img src="../assets/images/images(NTC)/Picture4.png" width="80%" align="center">
+
+When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
+
+•	Muscle group
+•	Workout type
+•	Equipment
+
+Scrolling further below, gives you more options based on time and athlete-specific.
+
+Observations
+•	The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
+•	NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
+
+<img src="../assets/images/images(NTC)/Picture5.png" width="80%" align="center">
+
+When you click on collections, you will find more workouts grouped in different catalogues.
+
+b.	Feed
+
+When you on click feed, it helps you connect with people you might know on NTC platform. NTC asks your permission to access contacts to connect you with your friends.
+
+Observation
+•	NTC doesn’t ask you a bunch of permissions at the start of the customer journey. It is an excellent way to educate the user about the consent necessary for enhancing a particular feature.
+
+The feed persuades the user to be active and highlights’ workout of the week’. If you scroll down, it informs the duration and demystifies a popular belief of a workout.
+
+When you enter the exercise, it re-informs the length, the level of intensity and the level of workout. It also gives a set of options for the user to set from displaying the exercise on a different screen via Airplay, audio preference and music source.
+
+Observation
+•	As I mentioned, the NTC is all about the community. It allows the individual to share the workout (invite) to their friend by clicking the share button in several places.
+•	It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
+•	NTC would also like to measure the likeness from the user for a particular workout by the heart icon
+
+<img src="../assets/images/images(NTC)/Picture6a.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture6b.png" width="80%" align="center">
+
+c.	Activity 	
+
+The core value NTC wants its users to engage is to discover more workouts and be active. When you click on the activity section, it shows your activity history and the achievement section. It also allows you to add an activity by clicking on + sign on the top right of the screen.
+
+When you click on the achievement section, you see the badges you have earned on NTC.
+
+<img src="../assets/images/images(NTC)/Picture7.png" width="80%" align="center">
+
+d.	Inbox
+
+This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get is them to pursue personal progress and don’t think about goals. So they are emphasizing on the process and not the result. This mindset is the holy grail of excellence in any field.
+
+<img src="../assets/images/images(NTC)/Picture8.png" width="80%" align="center">
+
+#### 5.	OVERALL ####
+
+I particularly like NTC requiring permissions when needed to enhance the user experience and not when you open NTC. Content disconnect at the registration screen as well as selecting a language late in the onboarding process does seem odd.
+
+If you look closely, NTC doesn’t give users the option of using the app through Facebook or Google sign-in. I wonder why?
+
+NTC helps individuals to start working out and doesn’t allow them to be distracted. Even after I used the app, clicked a lot of menus, icons, etc., the app doesn’t nudge me to upload my display picture, which is excellent. I haven’t been bombarded with emails from NTC too.
+
+I hope you have all enjoyed this teardown of NTC. I am hoping to write a few more of these to improve my understanding of mobile apps.
+
+If you have any suggestion, thoughts or feedback, please share.
