@@ -77,15 +77,15 @@ __Observations__
 
 NTC doesn’t ask the individual about her/his goal. It only asks individuals current active schedule and recommends the workout.  
 
-<img src="../assets/images/images(NTC)/Picture2.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/Picture2.png" width="65%" align="center">
 
-<p></p>
+
 After choosing the gender and current active schedule, below are the two screens the individual sees.
 
 - Achievement locker - virtual badges that one can earn (gamification element) and
 - Language - surprisingly, NTC asks to select the language.
 
-<img src="../assets/images/images(NTC)/Picture3.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/Picture3.png" width="65%" align="center">
 
 
 #### 4.	Experience – core functionality ####
