@@ -104,8 +104,6 @@ __Observations__
 
 <img src="../assets/images/images(NTC)/Picture4.png">
 
-</p>
-
 When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
 
 - Muscle group
@@ -119,9 +117,9 @@ __Observations__
 - NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
 
 <img src="../assets/images/images(NTC)/Picture5.png">
-</p>
+
 When you click on collections, you will find more workouts grouped in different catalogues.
-</p>
+
 
 **b.	Feed**
 
@@ -142,8 +140,6 @@ __Observations__
 <img src="../assets/images/images(NTC)/picture6a.png">
 <img src="../assets/images/images(NTC)/picture6b.png" width="35%" align="center">
 
-</p>
-
 **c.	Activity** 	
 
 The core value NTC wants its users to engage is to discover more workouts and be active. When you click on the activity section, it shows your activity history and the achievement section. It also allows you to add an activity by clicking on + sign on the top right of the screen.
@@ -152,7 +148,6 @@ When you click on the achievement section, you see the badges you have earned on
 
 <img src="../assets/images/images(NTC)/picture7.png" width="50%" align="center">
 
-</p>
 
 **d.	Inbox**
 
