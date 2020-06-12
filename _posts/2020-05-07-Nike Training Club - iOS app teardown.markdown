@@ -60,7 +60,7 @@ Once the individual registers, it asks a few questions to personalize the experi
 - If you look closely, you cannot skip the onboarding process
 - It doesn’t distract the user from uploading a display picture at this stage
 
-<img src="../assets/images/images(NTC)/Picture1.jpg" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture1.jpg" width="75%" align="center">
 
 #### 3. Onboarding ####
 
@@ -77,7 +77,7 @@ __Observations__
 
 NTC doesn’t ask the individual about her/his goal. It only asks individuals current active schedule and recommends the workout.  
 
-<img src="../assets/images/images(NTC)/Picture2.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture2.png" width="75%" align="center">
 
 </p>
 After choosing the gender and current active schedule, below are the two screens the individual sees.
@@ -85,7 +85,7 @@ After choosing the gender and current active schedule, below are the two screens
 - Achievement locker - virtual badges that one can earn (gamification element) and
 - Language - surprisingly, NTC asks to select the language.
 
-<img src="../assets/images/images(NTC)/Picture3.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture3.png" width="75%" align="center">
 
 
 #### 4.	Experience – core functionality ####
@@ -140,7 +140,7 @@ __Observations__
 - NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
 <img src="../assets/images/images(NTC)/picture6a.png">
-<img src="../assets/images/images(NTC)/picture6b.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/picture6b.png" width="35%" align="center">
 
 </p>
 
@@ -150,7 +150,7 @@ The core value NTC wants its users to engage is to discover more workouts and be
 
 When you click on the achievement section, you see the badges you have earned on NTC.
 
-<img src="../assets/images/images(NTC)/picture7.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/picture7.png" width="50%" align="center">
 
 </p>
 
