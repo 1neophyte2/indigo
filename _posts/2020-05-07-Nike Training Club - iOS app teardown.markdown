@@ -102,7 +102,7 @@ Observations
 - When you scroll horizontally, It enables you to find new workouts
 
 
-<img src="../assets/images/images(NTC)/Picture4.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/Picture4.png">
 
 When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
 
