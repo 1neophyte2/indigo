@@ -145,13 +145,13 @@ The core value NTC wants its users to engage is to discover more workouts and be
 
 When you click on the achievement section, you see the badges you have earned on NTC.
 
-<img src="../assets/images/images(NTC)/Picture7.png" width="80%" align="center">
+<img src="../assets/images/images(NTC)/picture7.png" width="80%" align="center">
 
 **d.	Inbox**
 
 This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get is them to pursue personal progress and don’t think about goals. So they are emphasizing on the process and not the result. This mindset is the holy grail of excellence in any field.
 
-<img src="../assets/images/images(NTC)/Picture8.png">
+<img src="../assets/images/images(NTC)/picture8.png">
 
 #### 5.	OVERALL ####
 
