@@ -136,8 +136,8 @@ Observation
 - It engages the user to see what the community thinks and is talking about the workout by speech bubble icon
 - NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
-<img src="../assets/images/images(NTC)/Picture6a.png">
-<img src="../assets/images/images(NTC)/Picture6b.png">
+<img src="../assets/images/images(NTC)/picture6a.png">
+<img src="../assets/images/images(NTC)/picture6b.png">
 
 **c.	Activity** 	
 
