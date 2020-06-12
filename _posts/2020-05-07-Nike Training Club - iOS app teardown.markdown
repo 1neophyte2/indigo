@@ -79,7 +79,7 @@ NTC doesn’t ask the individual about her/his goal. It only asks individuals cu
 
 <img src="../assets/images/images(NTC)/Picture2.png" width="75%" align="center">
 
-</p>
+<p></p>
 After choosing the gender and current active schedule, below are the two screens the individual sees.
 
 - Achievement locker - virtual badges that one can earn (gamification element) and
