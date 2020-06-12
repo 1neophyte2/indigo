@@ -140,7 +140,7 @@ __Observations__
 - NTC would also like to measure the likeness from the user for a particular workout by the heart icon
 
 <img src="../assets/images/images(NTC)/picture6a.png">
-<img src="../assets/images/images(NTC)/picture6b.png">
+<img src="../assets/images/images(NTC)/picture6b.png" width="80%" align="center">
 
 </p>
 
@@ -168,7 +168,7 @@ If you look closely, NTC doesn’t give users the option of using the app throug
 
 NTC helps individuals to start working out and doesn’t allow them to be distracted. Even after I used the app, clicked a lot of menus, icons, etc., the app doesn’t nudge me to upload my display picture, which is excellent. I haven’t been bombarded with emails from NTC too.
 
-### Learnings ###
+#### Learnings ####
 
 - Keeping consistency in CTA's on all forms of registration page
 - Ensuring (if required) the language selection happens at the beginning of the user journey. Will allow user to switch language in the mobile app.
