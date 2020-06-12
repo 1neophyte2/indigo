@@ -146,7 +146,7 @@ The core value NTC wants its users to engage is to discover more workouts and be
 
 When you click on the achievement section, you see the badges you have earned on NTC.
 
-<img src="../assets/images/images(NTC)/picture7.png" width="50%" align="center">
+<img src="../assets/images/images(NTC)/picture7.png">
 
 
 **d.	Inbox**
