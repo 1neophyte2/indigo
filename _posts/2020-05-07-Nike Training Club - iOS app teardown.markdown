@@ -1,7 +1,7 @@
 ---
 title: "Nike Training Club – Analysis"
 layout: post
-date: 2020-06-08 22:44
+date: 2020-06-18 22:44
 image: https://lh3.googleusercontent.com/IMzVrzuUHqW1kNc-PXmQpbJ7YvVnh-T_rsLN-ICt-e35DwZzPkGJHU1gpmG8F6yViA=s360-rw
 headerImage: true
 tag:
