@@ -29,8 +29,8 @@ analytics-google: 'UA-89365569-3'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: https-1neophyte2-github-io # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  # shortname: https-1neophyte2-github-io # enter this from your disqus account
+  # categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
