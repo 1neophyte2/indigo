@@ -13,7 +13,7 @@ picture: https://pbs.twimg.com/profile_images/855101131831164928/muypFFhi_400x40
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
+resume-external: true
 
 url: https://1neophyte2.github.io/indigo/
 # your url: https://USERNAME.github.io
