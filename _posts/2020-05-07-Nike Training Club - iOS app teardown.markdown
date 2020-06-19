@@ -163,12 +163,16 @@ If you look closely, NTC doesn’t give users the option of using the app throug
 
 NTC helps individuals to start working out and doesn’t allow them to be distracted. Even after I used the app, clicked a lot of menus, icons, etc., the app doesn’t nudge me to upload my display picture, which is excellent. I haven’t been bombarded with emails from NTC too.
 
+ ---
+
 #### Learnings ####
 
-- Keeping consistency in CTA's on all forms of registration page
-- Ensuring (if required) the language selection happens at the beginning of the user journey. Will allow user to switch language in the mobile app.
-- Focus on core feature experience like the NTC does repeatedly and not ask users to upload picture, comment on the feed etc.
+- Keeping consistent CTA's on all registration pages will help users to sign-up quickly.
+- Users get to select the interfaces language before their journey.  
+- Will focus on user experiencing the core features and won't overload users with distractions.
 
-I hope you have all enjoyed this teardown of NTC. I am hoping to write a few more of these to improve my understanding of mobile apps.
+---
 
-If you have any suggestion, thoughts or feedback, please share.
+I am hoping to write a few more of these to improve my understanding of products.
+
+If you have any suggestion, thoughts or feedback, please share with me on twitter @anifooty. 
