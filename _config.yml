@@ -15,7 +15,7 @@ picture: https://pbs.twimg.com/profile_images/855101131831164928/muypFFhi_400x40
 #resume: false
 #resume-external: false
 
-#url: https://1neophyte2.github.io/indigo/
+url: https://1neophyte2.github.io/indigo/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -40,7 +40,7 @@ twitter: anifooty
 linkedin: anirudhtulasiram
 # youtube: myyoutube
 spotify: anirudhtulasiram
-# github: mygithub
+#github:
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
