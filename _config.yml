@@ -88,9 +88,8 @@ blog: true
 # do you want to show the "read time" of the posts?
 read-time: true
 
-# if you don't need projects, comment the *projects* configs below
+# if you don't need experiments, comment the *experiments* configs below
 experiments: true
-
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
