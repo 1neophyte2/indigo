@@ -12,7 +12,7 @@ picture: https://pbs.twimg.com/profile_images/855101131831164928/muypFFhi_400x40
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: false
 
 url: https://1neophyte2.github.io/indigo/
@@ -50,7 +50,7 @@ spotify: anirudhtulasiram
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
-goodreads: user/show/64634175-anirudh-tulasiram
+goodreads: show/64634175-anirudh-tulasiram
 
 authors:
   johndoe:
