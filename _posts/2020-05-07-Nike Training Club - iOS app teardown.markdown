@@ -116,7 +116,7 @@ When you click on collections, you will find more workouts grouped in different 
 When you on click feed, it helps you connect with people you might know on NTC platform. NTC asks your permission to access contacts to connect you with your friends.
 
 <img src="../assets/images/images(NTC)/picture6a.png" width="45%" align="center">
-<img src="../assets/images/images(NTC)/picture6b.png" width="15%" align="center">
+<img src="../assets/images/images(NTC)/picture6b.png" width="18%" align="center">
 
 
 
