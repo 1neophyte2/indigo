@@ -84,7 +84,6 @@ Once you click on ‘Okay’, NTC recommends a personalized workout.
 
 <img src="../assets/images/images(NTC)/Picture4.png" width="75%" align="center">
 
-</p>
 
 __Observations__
 
@@ -167,10 +166,9 @@ NTC helps individuals to start working out and doesn’t allow them to be distra
 - Keeping consistent CTA's on all registration pages will help users to sign-up quickly.
 - Users get to select the interfaces language before their journey.  
 - Will focus on user experiencing the core features and won't overload users with distractions.
-
 ---
 
 I am hoping to write a few more of these to improve my understanding of products.
 
 If you have any suggestion, thoughts or feedback, please share with me on twitter
-<a href="https://twitter.com/anifooty">@anifooty</a>
+<a href="https://twitter.com/anifooty" target="_blank">@anifooty</a>
