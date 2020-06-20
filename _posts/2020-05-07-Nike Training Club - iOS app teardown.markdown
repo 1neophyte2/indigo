@@ -13,8 +13,6 @@ author: Anirudh
 description:
 ---
 
-## Nike Training Club – analysis
-
 I have been a considerable fitness, health and nutrition enthusiast. I am more of a ‘why’ person, and that helps me to be inquisitive. Over the years, I have joined various fitness classes like gym, strength and conditioning, functional fitness and CrossFit. I used to cycle and occasionally run to my previous workplace. Being a curious person helps me to think, question and analyze many things from signboards on the highway, aisles arrangement in supermarkets, mobile apps and much more.
 
 Since the lockdown, various fitness apps have helped me plan a workout daily. I have particularly liked Nike Training Club app over the others. Their plans integrate a running module in addition to strength and conditioning. I have used it several times in the past but have never paid attention to several aspects of the app.
@@ -31,25 +29,24 @@ Nike Training Club (NTC) helps individuals to work out
 
 Below are the topics that I have covered in this analysis
 
-**Index**
-
-1.	Background
-2.	Registration
-3.	Onboarding
-4.	Experience
-  - Workouts
-  - Feed
-  - Activity
-  - Inbox
-5.	Overall
-
-
 #### 1.	Nike Training Club (NTC) - Background ####
 
 Nike has been pushing boundaries in health-tech for some time now. I remember their early Nike+ Sports band kit (2008), Nike+ fuel bands (2013) that promised individuals of an active lifestyle. They were the pioneers in bringing this new accessible tech to consumers.
 Nike Training Club (NTC). Over the years, most health tech companies have offered their product as a mobile-only.
 
-#### 2.	Registration ####
+**Index**
+
+1.	Registration
+2.	Onboarding
+3.	Experience
+  - Workouts
+  - Feed
+  - Activity
+  - Inbox
+6.	Overall
+
+
+#### 1.	Registration ####
 
 Nike has always been community-centric when it comes to their product launches, and it reflects in the language they have used throughout NTC. When you open the app for a new user, the screen mentions ‘Join’ instead of ‘Sign-up or Register’.
 
@@ -62,7 +59,7 @@ Once the individual registers, it asks a few questions to personalize the experi
 
 <img src="../assets/images/images(NTC)/Picture1.jpg" width="75%" align="center">
 
-#### 3. Onboarding ####
+#### 2. Onboarding ####
 
 When you click on ‘Get Started’ button, it asks two questions
 
@@ -77,7 +74,7 @@ __Observations__
 
 NTC doesn’t ask the individual about her/his goal. It only asks individuals current active schedule and recommends the workout.  
 
-<img src="../assets/images/images(NTC)/Picture2.png" width="65%" align="center">
+<img src="../assets/images/images(NTC)/Picture2.png" width="75%" align="center">
 
 
 After choosing the gender and current active schedule, below are the two screens the individual sees.
@@ -85,10 +82,10 @@ After choosing the gender and current active schedule, below are the two screens
 - Achievement locker - virtual badges that one can earn (gamification element) and
 - Language - surprisingly, NTC asks to select the language.
 
-<img src="../assets/images/images(NTC)/Picture3.png" width="65%" align="center">
+<img src="../assets/images/images(NTC)/Picture3.png" width="75%" align="center">
 
 
-#### 4.	Experience – core functionality ####
+#### 3.	Experience – core functionality ####
 
 
 **a.	Workouts**
@@ -102,7 +99,7 @@ __Observations__
 - It allows you to discover different types of workout in the ‘Top Picks for You’ section
 - When you scroll horizontally, It enables you to find new workouts
 
-<img src="../assets/images/images(NTC)/Picture4.png">
+<img src="../assets/images/images(NTC)/Picture4.png" width="75%" align="center">
 
 When you still want to explore the app, by clicking browse NTC gives a plethora of options. It gives you an almost infinite number of possibilities that can outlast any excuses that you might have. The options range from
 
@@ -116,10 +113,10 @@ __Observations__
 - The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
 - NTC the large selection of workouts that are available in the app to persuade users to work out and have an active lifestyle. There are about 200 workouts in the app.
 
-<img src="../assets/images/images(NTC)/Picture5.png">
+<img src="../assets/images/images(NTC)/Picture5.png" width="75%" align="center">
 
+</p
 When you click on collections, you will find more workouts grouped in different catalogues.
-
 
 **b.	Feed**
 
@@ -153,9 +150,9 @@ When you click on the achievement section, you see the badges you have earned on
 
 This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get is them to pursue personal progress and don’t think about goals. So they are emphasizing on the process and not the result. This mindset is the holy grail of excellence in any field.
 
-<img src="../assets/images/images(NTC)/picture8.png">
+<img src="../assets/images/images(NTC)/picture8.png" width="75%" align="center">
 
-#### 5.	OVERALL ####
+#### 4.	OVERALL ####
 
 I particularly like NTC requiring permissions when needed to enhance the user experience and not when you open NTC. Content disconnect at the registration screen as well as selecting a language late in the onboarding process does seem odd.
 
@@ -175,4 +172,4 @@ NTC helps individuals to start working out and doesn’t allow them to be distra
 
 I am hoping to write a few more of these to improve my understanding of products.
 
-If you have any suggestion, thoughts or feedback, please share with me on twitter @anifooty. 
+If you have any suggestion, thoughts or feedback, please share with me on twitter [@anifooty](https://twitter.com/anifooty)
