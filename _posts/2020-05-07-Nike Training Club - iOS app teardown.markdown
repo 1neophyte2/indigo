@@ -105,7 +105,6 @@ Scrolling further below, gives you more options based on time and athlete-specif
 
 <img src="../assets/images/images(NTC)/Picture5.png" width="75%" align="center">
 
-</p>
 
 __Observations__
 - The discovery of exercises is on the muscle group, workout type and equipment. If you look closely, the filters are not time-specific. This logic could be due to the assumption that time is not an essential criterion when you select a workout in the beginning. If you choose a 5-minute workout but don’t have any equipment required, you will exit the app. The same logic follows for the other two.
@@ -120,7 +119,7 @@ When you on click feed, it helps you connect with people you might know on NTC p
 <img src="../assets/images/images(NTC)/picture6a.png">
 <img src="../assets/images/images(NTC)/picture6b.png" width="35%" align="center">
 
-</p>
+
 
 __Observation__
 - NTC doesn’t ask you a bunch of permissions at the start of the customer journey. It is an excellent way to educate the user about the consent necessary for enhancing a particular feature.
@@ -138,7 +137,6 @@ When you click on the achievement section, you see the badges you have earned on
 
 <img src="../assets/images/images(NTC)/picture7.png">
 
-</p>
 
 #### **d.	Inbox** ####
 
@@ -146,7 +144,6 @@ This section communicates various things to individuals from NTC. Again, if you 
 
 <img src="../assets/images/images(NTC)/picture8.png" width="75%" align="center">
 
-</p>
 
 So they are emphasizing
 
@@ -175,4 +172,5 @@ NTC helps individuals to start working out and doesn’t allow them to be distra
 
 I am hoping to write a few more of these to improve my understanding of products.
 
-If you have any suggestion, thoughts or feedback, please share with me on twitter [@anifooty](https://twitter.com/anifooty)
+If you have any suggestion, thoughts or feedback, please share with me on twitter
+<a href="https://twitter.com/anifooty">@anifooty</a>
