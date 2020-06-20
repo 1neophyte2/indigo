@@ -12,7 +12,7 @@ category: blog
 author: Anirudh
 description:
 ---
-Nike has been pushing boundaries in health-tech for some time now. I remember their early Nike+ Sports band kit (2008), Nike+ fuel bands (2013) that promised individuals of an active lifestyle. They were the pioneers in bringing this new accessible tech to consumers and eventually other companies caught on to this namely Pebble, Fitbit, Addidas (Mi-coach) and Apple.
+Nike has been pushing boundaries in health-tech for some time now. I remember their early Nike+ Sports band kit (2008), Nike+ fuel bands (2013) that promised individuals of an active lifestyle. They were the pioneers in bringing this new accessible tech to consumers and eventually other companies caught on to this namely Pebble, Fitbit, Adidas (Mi-coach) and Apple.
 
 I have been a considerable fitness, health and nutrition enthusiast. Over the years, I have tried various fitness formats like gym, functional fitness and CrossFit. I used to cycle and occasionally run to my previous workplace. Being a curious person helps me to think, question and analyze many things from signboards on the highway, aisles arrangement in supermarkets, mobile apps and much more.
 
