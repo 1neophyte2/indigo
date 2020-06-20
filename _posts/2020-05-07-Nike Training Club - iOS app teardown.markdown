@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - App analysis
 
-star: true
+star: t
 category: blog
 author: Anirudh
 description:
@@ -25,7 +25,7 @@ and tailors the workouts to individuals needs
 
 Below are the topics that I have covered in this analysis
 
-**Index**
+### **Index** ###
 
 1. Registration
 2.	Onboarding
@@ -134,19 +134,19 @@ The core value NTC wants its users to engage is to discover more workouts and be
 
 When you click on the achievement section, you see the badges you have earned on NTC.
 
-<img src="../assets/images/images(NTC)/picture7.png">
+<img src="../assets/images/images(NTC)/picture7.png" width="65%" align="center">
 
 
 #### **d.	Inbox** ####
 
 This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get, is for them to pursue personal progress and not think about goals.
 
-<img src="../assets/images/images(NTC)/picture8.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/picture8.png" width="65%" align="center">
 
 
 So they are emphasizing
 
-<span class="evidence">on the process and not the result. This mindset is the holy grail of excellence in any field.</span>
+<span class="evidence">on the process and not the result. This mindset is the holy grail of excellence. Process > Result </span>
 
 
 #### 4.	Overall ####
@@ -166,6 +166,7 @@ NTC helps individuals to start working out and doesn’t allow them to be distra
 - Keeping consistent CTA's on all registration pages will help users to sign-up quickly.
 - Users get to select the interfaces language before their journey.  
 - Will focus on user experiencing the core features and won't overload users with distractions.
+
 ---
 
 I am hoping to write a few more of these to improve my understanding of products.
