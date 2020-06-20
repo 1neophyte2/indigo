@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - App analysis
 
-star: t
+star: true
 category: blog
 author: Anirudh
 description:
