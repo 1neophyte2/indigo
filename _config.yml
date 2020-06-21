@@ -40,8 +40,8 @@ twitter: anifooty
 linkedin: anirudhtulasiram
 # youtube: myyoutube
 spotify: anirudhtulasiram
-# github:
-# gitlab: 
+github: 1neophyte2
+# gitlab:
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -90,7 +90,7 @@ blog: true
 read-time: true
 
 # if you don't need books, comment the *books* configs below
-# books: false
+books: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
