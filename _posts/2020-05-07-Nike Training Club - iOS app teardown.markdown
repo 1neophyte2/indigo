@@ -65,7 +65,7 @@ __Observations__
 
 NTC doesn’t ask the individual about her/his goal. It only asks individuals current active schedule and recommends the workout.  
 
-<img src="../assets/images/images(NTC)/Picture2.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/Picture2.png" width="65%" align="center">
 
 
 After choosing the gender and current active schedule, below are the two screens the individual sees.
@@ -73,7 +73,7 @@ After choosing the gender and current active schedule, below are the two screens
 - Achievement locker - virtual badges that one can earn (gamification element) and
 - Language - surprisingly, NTC asks to select the language.
 
-<img src="../assets/images/images(NTC)/Picture3.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/Picture3.png" width="55%" align="center">
 
 
 ### 3.	Experience – core functionality ###
@@ -82,7 +82,7 @@ After choosing the gender and current active schedule, below are the two screens
 
 Once you click on ‘Okay’, NTC recommends a personalized workout.
 
-<img src="../assets/images/images(NTC)/Picture4.png" width="75%" align="center">
+<img src="../assets/images/images(NTC)/Picture4.png" width="55%" align="center">
 
 
 __Observations__
@@ -116,7 +116,7 @@ When you click on collections, you will find more workouts grouped in different 
 When you on click feed, it helps you connect with people you might know on NTC platform. NTC asks your permission to access contacts to connect you with your friends.
 
 <img src="../assets/images/images(NTC)/picture6a.png" width="65%" align="center">
-<img src="../assets/images/images(NTC)/picture6b.png" width="33%" align="center">
+<img src="../assets/images/images(NTC)/picture6b.png" width="21%" align="center">
 
 
 
@@ -134,14 +134,14 @@ The core value NTC wants its users to engage is to discover more workouts and be
 
 When you click on the achievement section, you see the badges you have earned on NTC.
 
-<img src="../assets/images/images(NTC)/picture7.png" width="65%" align="center">
+<img src="../assets/images/images(NTC)/picture7.png" width="55%" align="center">
 
 
 #### **d.	Inbox** ####
 
 This section communicates various things to individuals from NTC. Again, if you read the content carefully under ‘Progress Starts Today’ NTC clearly says the core value that individuals get, is for them to pursue personal progress and not think about goals.
 
-<img src="../assets/images/images(NTC)/picture8.png" width="65%" align="center">
+<img src="../assets/images/images(NTC)/picture8.png" width="55%" align="center">
 
 
 So they are emphasizing
