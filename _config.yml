@@ -90,7 +90,7 @@ blog: true
 read-time: true
 
 # if you don't need books, comment the *books* configs below
-books: true
+# books:false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
