@@ -55,7 +55,7 @@ goodreads: show/64634175-anirudh-tulasiram
 #authors:
   #johndoe:
     #name: Anirudh Tulasiram
-# bio:
+bio:
     external-image: true
     picture: https://pbs.twimg.com/profile_images/855101131831164928/muypFFhi_400x400.jpg
     twitter:
@@ -120,7 +120,7 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll
+  - jekyll-feed
   - jemoji
   - jekyll-admin
   - jekyll-paginate-v2
