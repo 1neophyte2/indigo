@@ -28,7 +28,7 @@ analytics-google: 'UA-89365569-3'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
+#disqus:
   # shortname: https-1neophyte2-github-io # enter this from your disqus account
   # categories: [blog, project] # only show disqus for posts that have these categories
 
@@ -52,10 +52,10 @@ github: 1neophyte2
 # email: myemail@gmail.com
 goodreads: show/64634175-anirudh-tulasiram
 
-#authors:
-  #johndoe:
-    #name: Anirudh Tulasiram
-bio:
+authors:
+  johndoe:
+    name: Anirudh Tulasiram
+    bio:
     external-image: true
     picture: https://pbs.twimg.com/profile_images/855101131831164928/muypFFhi_400x400.jpg
     twitter:
